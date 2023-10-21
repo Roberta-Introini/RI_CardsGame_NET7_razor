@@ -1,0 +1,2 @@
+# RI_CardsGame_NET7_razor
+RI_CardsGame_NET7_razor
