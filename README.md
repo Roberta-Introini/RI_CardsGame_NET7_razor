@@ -1,5 +1,7 @@
 # RI_CardsGame_NET7_razor
 RI_CardsGame_NET7_razor
+
+
 The game is a memory card game that is played on a 4 by 4 square grid, totaling 16 squares. Each square on the grid contains a card that is initially face-down. The objective of the game is to flip over two cards at a time, with the goal of finding pairs of cards that have the same color.
 
 Here are the key rules and mechanics of the game:
